@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d512bc73-b256-453d-a204-e90ff1435880" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1oInZIOLLRDEtigS6SxSqc9aneg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.02-operadores-aritimeticos.php">
+    <configuration name="01-variaveis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/01-primeiros-passos/Modulo-02/01-variaveis.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="02-operadores-aritimeticos.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/01-primeiros-passos/Modulo-02/02-operadores-aritimeticos.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.02-operadores-aritimeticos.php" />
+        <item itemvalue="PHP Script.01-variaveis.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d512bc73-b256-453d-a204-e90ff1435880" name="Default Changelist" comment="" />
+      <created>1612983025838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612983025838</updated>
+      <workItem from="1612983026895" duration="3556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1612983346321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612983346321" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612983329385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612983329385" />
+    <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612986400609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612986400609" />
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1612987537251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612987537251" />
+    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1612987537250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.center/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612987537250" />
+    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1612987537250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.left/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612987537250" />
+    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1612987537250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.right/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612987537250" />
+    <state x="486" y="351" key="NewPhpFileDialog" timestamp="1612987188522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="486" y="351" key="NewPhpFileDialog/-1024.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612987188522" />
+  </component>
+</project>
